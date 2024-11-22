@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia\\source\\repos\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7602F670-AF7E-4F46-87D3-03DC02ACC452}|TodoApi\\TodoApi.csproj|c:\\users\\julia\\source\\repos\\todoapi\\todoapi\\controllers\\eulerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7602F670-AF7E-4F46-87D3-03DC02ACC452}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\eulerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7602F670-AF7E-4F46-87D3-03DC02ACC452}|TodoApi\\TodoApi.csproj|c:\\users\\julia\\source\\repos\\todoapi\\todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7602F670-AF7E-4F46-87D3-03DC02ACC452}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7602F670-AF7E-4F46-87D3-03DC02ACC452}|TodoApi\\TodoApi.csproj|c:\\users\\julia\\source\\repos\\todoapi\\todoapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7602F670-AF7E-4F46-87D3-03DC02ACC452}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7602F670-AF7E-4F46-87D3-03DC02ACC452}|TodoApi\\TodoApi.csproj|c:\\users\\julia\\source\\repos\\todoapi\\todoapi\\models\\euler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7602F670-AF7E-4F46-87D3-03DC02ACC452}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\euler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7602F670-AF7E-4F46-87D3-03DC02ACC452}|TodoApi\\TodoApi.csproj|c:\\users\\julia\\source\\repos\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7602F670-AF7E-4F46-87D3-03DC02ACC452}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7602F670-AF7E-4F46-87D3-03DC02ACC452}|TodoApi\\TodoApi.csproj|c:\\users\\julia\\source\\repos\\todoapi\\todoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7602F670-AF7E-4F46-87D3-03DC02ACC452}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EulersController.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\TodoApi\\TodoApi\\Controllers\\EulersController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\EulersController.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\TodoApi\\TodoApi\\Controllers\\EulersController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\EulersController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwHgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:38:14.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\TodoApi\\TodoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\TodoApi\\TodoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:36:43.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\TodoApi\\TodoApi\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\TodoApi\\TodoApi\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "TodoApi\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:34:01.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Euler.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\TodoApi\\TodoApi\\Models\\Euler.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\Euler.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\TodoApi\\TodoApi\\Models\\Euler.cs",
+              "RelativeToolTip": "TodoApi\\Models\\Euler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:32:31.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\TodoApi\\TodoApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TodoApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\TodoApi\\TodoApi\\WeatherForecast.cs",
+              "RelativeToolTip": "TodoApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:30:49.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeToolTip": "TodoApi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:29:02.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
